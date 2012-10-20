@@ -1,0 +1,8 @@
+{
+    "name": "morganprecision/zf1-sample-acl",
+    "description": "Sample ACL for ZF1",
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework1": "1.12.*"
+    }
+}
